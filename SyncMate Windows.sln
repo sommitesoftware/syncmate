@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncMate Client", "0.Windows\SyncMate Client\SyncMate Client.csproj", "{6A7A99F2-CA13-4E13-BAD1-1EE49B6807AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7A99F2-CA13-4E13-BAD1-1EE49B6807AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7A99F2-CA13-4E13-BAD1-1EE49B6807AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7A99F2-CA13-4E13-BAD1-1EE49B6807AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7A99F2-CA13-4E13-BAD1-1EE49B6807AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C40C8F2-61B5-422B-AC6B-EC570DFD1FA7}
+	EndGlobalSection
+EndGlobal
